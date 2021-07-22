@@ -5,7 +5,7 @@
 
 💻 Sou desenvolvedor frontend com muita vontade de aprender coisas novas.
 
-👨‍🎓 Estou graduando em Sistemas de Informação pela Univas e finalizo no final de 2022.
+👨‍🎓 Graduando em Sistemas de Informação pela Univas e finalizo no final de 2022.
 
 
 ### Tecnologias que utilizo 🧑‍💻
