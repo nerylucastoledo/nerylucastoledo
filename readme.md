@@ -5,6 +5,9 @@
 
 🎓 Estou graduando em Sistemas de Informação pela Univas e termino no final de 2022.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
+[![Email Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lucasnerytoledo@hotmail.com)](https://br.linkedin.com/in/lucas-nery-57b476180/)
+
 ### 📜 Tecnologias que utilizo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,9 +25,3 @@
 
 - [Origamid - Web Design](https://www.origamid.com/certificate/764074c1/)
 - [Origamid - Vue.js](https://www.origamid.com/certificate/4dba0e50/)
-
-### 📜 Mande uma mensagem
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
-[![Email Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
-
