@@ -18,9 +18,9 @@
 ![HTML](https://img.shields.io/badge/HTML-ffa500?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-264DE4?style=for-the-badge&logo=CSS3)&nbsp;<br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A429D?style=flat&logo=bootstrap)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23ACF4?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;<br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23ACF4?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
 ![Git](https://img.shields.io/badge/-Git-E84E31?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### Cursos 📜
 
