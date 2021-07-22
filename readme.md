@@ -6,7 +6,7 @@
 🎓 Estou graduando em Sistemas de Informação pela Univas e termino no final de 2022.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
-[![Email Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lucasnerytoledo@hotmail.com)](https://br.linkedin.com/in/lucas-nery-57b476180/)
+<a href="mailto:lucasnerytoledo@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?style=flat&logo=email&logoColor=white" /></a> &nbsp;
 
 ### 📜 Tecnologias que utilizo
 
