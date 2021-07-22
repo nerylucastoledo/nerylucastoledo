@@ -10,8 +10,8 @@
 
 ### 📜 Tecnologias que utilizo
 
-![Vue](https://img.shields.io/badge/-Vue-42b983?style=flat&logo=vue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-42b983?style=flat&logo=vue)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-2d618c?style=flat&logo=github)&nbsp;<br>
 ![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat&logo=github)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-ffa500?style=flat&logo=HTML5)&nbsp;
