@@ -23,5 +23,5 @@
 
 ### 📜 Cursos
 
-- [Origamid - Web Design]https://www.origamid.com/certificate/764074c1/)
+- [Origamid - Web Design](https://www.origamid.com/certificate/764074c1/)
 - [Origamid - Vue.js](https://www.origamid.com/certificate/4dba0e50/)
