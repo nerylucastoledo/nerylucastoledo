@@ -1,6 +1,7 @@
 ### Olá, eu sou o Lucas! 😀
 
 ### Sobre mim ✍️
+
 💻 Sou desenvolvedor frontend com muita vontade de aprender coisas novas.
 
 👨‍🎓 Estou graduando em Sistemas de Informação pela Univas e termino no final de 2022.
