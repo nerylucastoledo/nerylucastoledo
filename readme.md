@@ -31,4 +31,4 @@
 ### Contato 📲
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
-<a href="mailto:lucasnerytoledo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=gmail" /></a> &nbsp;
+<a href="mailto:lucasnerytoledo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/-Outlook-red?style=flat-square&logo=gmail" /></a> &nbsp;
