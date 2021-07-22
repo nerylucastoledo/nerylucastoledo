@@ -1,16 +1,12 @@
 ### Olá, eu sou o Lucas! 👋😀
 
+
 ### Sobre mim 📋
 
 💻 Sou desenvolvedor frontend com muita vontade de aprender coisas novas.
 
 👨‍🎓 Estou graduando em Sistemas de Informação pela Univas e finalizo no final de 2022.
 
-
-### Contato 📲
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
-<a href="mailto:lucasnerytoledo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=gmail" /></a> &nbsp;
 
 ### Tecnologias que utilizo 🧑‍💻
 
@@ -25,7 +21,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
 ![Git](https://img.shields.io/badge/-Git-E84E31?style=flat&logo=git)&nbsp;
 
+
 ### Cursos 📜
 
 - [Origamid - Web Design](https://www.origamid.com/certificate/764074c1/)
 - [Origamid - Vue.js](https://www.origamid.com/certificate/4dba0e50/)
+
+
+### Contato 📲
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
+<a href="mailto:lucasnerytoledo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=gmail" /></a> &nbsp;
