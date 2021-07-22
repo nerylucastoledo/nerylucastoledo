@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas! 👋😀
 
-### Sobre mim ✍️
+### Sobre mim 📋
 
 💻 Sou desenvolvedor frontend com muita vontade de aprender coisas novas.
 
