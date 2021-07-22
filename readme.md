@@ -1,8 +1,5 @@
 ### Olá, eu sou o Lucas! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/nerylucastoledo/nerylucastoledo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
-
 ### Sobre mim
 💻 Sou desenvolvedor frontend com muita vontade de aprender coisas novas.
 
@@ -25,3 +22,9 @@
 
 - [Origamid - Web Design](https://www.origamid.com/certificate/764074c1/)
 - [Origamid - Vue.js](https://www.origamid.com/certificate/4dba0e50/)
+
+### 📜 Mande uma mensagem
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
+[![Email Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://br.linkedin.com/in/lucas-nery-57b476180/)
+
