@@ -3,7 +3,7 @@
 
 ### Sobre mim 📋
 
-💻 Sou desenvolvedor frontend com muita vontade de aprender coisas novas.
+💻 Sou desenvolvedor front-end com muita vontade de aprender coisas novas.
 
 👨‍🎓 Graduando em Sistemas de Informação pela Univas e finalizo no final de 2022.
 
