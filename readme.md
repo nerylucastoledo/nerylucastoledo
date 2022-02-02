@@ -13,9 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-42b983?style=for-the-badge&logo=vue.js)&nbsp;
 ![Python](https://img.shields.io/badge/Python-2d618c?style=for-the-badge&logo=python)&nbsp;<br>
-![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-ffa500?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-264DE4?style=for-the-badge&logo=CSS3)&nbsp;<br>
+![Firebase](https://img.shields.io/badge/Firebase-F7DF1E?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A429D?style=flat&logo=bootstrap)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23ACF4?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Py Charm](https://img.shields.io/badge/-PyCharm-20D088?style=flat&logo=pycharm&logoColor=black)&nbsp;<br>
