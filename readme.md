@@ -3,7 +3,7 @@
 
 ### Sobre mim 📋
 
-💻 Tenh como foco princripal desenvolvimento front-end.
+💻 Tenho como foco princripal desenvolvimento front-end.
 
 👨‍🎓 Graduando em Sistemas de Informação pela Univas, finalizo no final de 2022.
 
