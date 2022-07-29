@@ -3,7 +3,7 @@
 
 ### Sobre mim 📋
 
-💻 Tenho como foco principal o desenvolvimento front-end.
+💻 Desenvolvedor front-end
 
 👨‍🎓 Graduando em Sistemas de Informação pela Univas e finalizo no final de 2022.
 
