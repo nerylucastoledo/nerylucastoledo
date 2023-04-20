@@ -5,7 +5,7 @@
 
 💻 Desenvolvedor front-end
 
-👨‍🎓 Graduando em Sistemas de Informação pela Univas e finalizo no final de 2022.
+👨‍🎓 Formado em Sistemas de informação pela Univas.
 
 
 ### Tecnologias que utilizo 🧑‍💻
