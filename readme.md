@@ -10,17 +10,17 @@
 
 ### Tecnologias que utilizo 🧑‍💻
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/Typescript-6495ED?style=for-the-badge&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/NODE.JS-026E00?style=for-the-badge&logo=node.js&logoColor=black)<br>
-![Vue](https://img.shields.io/badge/Vue.js-42b983?style=for-the-badge&logo=vue.js)&nbsp;
-![React](https://img.shields.io/badge/React.js-5ed3f3?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-ffa500?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-264DE4?style=for-the-badge&logo=CSS3)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-F7DF1E?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;<br>
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A429D?style=flat&logo=bootstrap)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-E84E31?style=flat&logo=git)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;<br>
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 
 ### Cursos 📜
 
